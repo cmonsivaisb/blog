@@ -14,7 +14,7 @@ Instrucciones para instalar App:
 
 Copiar los archivos de la app:
 
-   Copia todos los archivos y carpetas de la app en el directorio raíz de tu servidor web. Esto suele ser la carpeta `public_html` o `www` en Apache.
+   Copia todos los archivos y carpetas de la app en el directorio raíz de tu servidor web o bien clona el repositorio con el comando git clone https://github.com/cmonsivaisb/blog.git. Esto suele ser la carpeta `public_html` o `www` en Apache.
 
  Configurar la base de datos:
 
